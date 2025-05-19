@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911706838300",
+    "project_id": "vid-project-53788",
+    "storage_bucket": "vid-project-53788.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911706838300:android:c4d900d21ac5cee5b396d9",
+        "android_client_info": {
+          "package_name": "com.mycompany.vidnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAw6irg_jM68blSu-mKyQIEs29s7GO8D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,7 @@
-# vidyapeeth_project
-This is a Flutterflow Project
+# vid new
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
